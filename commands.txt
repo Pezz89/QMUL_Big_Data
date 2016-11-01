@@ -1,0 +1,1 @@
+./hadoop-debug jar dist/Stocks.jar Stocks input out
