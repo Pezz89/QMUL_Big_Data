@@ -9,7 +9,8 @@ def main():
     with open("../FinalOutput.txt") as data:
         lines = data.readlines()
         # Get the highest index of tweets
-        max_ind = int(lines[-1].split()[0])
+        indexes = np.array([x.split()[0] for x in lines], dtype=int)
+        max_ind = np.max(indexes)
 
         data = np.zeros([max_ind, 2], dtype=int)
         data[:, 0] = np.arange(max_ind)+1

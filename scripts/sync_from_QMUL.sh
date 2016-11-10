@@ -2,7 +2,7 @@
 SCRIPT_PATH="`dirname \"$0\"`"
 
 FLAGS="-Pazur"
-ARGS="--exclude './build' --exclude './.git' --exclude './classes' --exclude './out'"
+ARGS="--exclude './build' --cvs-exclude --exclude './classes' --exclude './out'"
 
 echo "Attempting to sync via SSHFS"
 eval "rsync $FLAGS ~/bert/Big_Data/Assignment_1/ $SCRIPT_PATH/../ $ARGS --delete"

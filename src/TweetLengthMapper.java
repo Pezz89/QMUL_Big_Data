@@ -20,10 +20,13 @@ public class TweetLengthMapper extends Mapper<Object, Text, IntWritable, IntWrit
 
         if(line.length == 4) {
             // Calculate the length of the tweet
-            feature.set(line[2].length()/5);
+            int tweet_length = line[2].length();
+            if(tweet_length < 141) {
+                feature.set(tweet_length/5);
 
-            // Output the length of the tweet as the key and 1 as the value
-            context.write(feature,value);
+                // Output the length of the tweet as the key and 1 as the value
+                context.write(feature,value);
+            }
         }
     }
 }
