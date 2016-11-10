@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+
+ctags --recurse
+rlwrap -f . -f tags -e "" jdb -sourcepath ./src/ -attach localhost:9009
