@@ -20,7 +20,7 @@ public class TweetLengthMapper extends Mapper<Object, Text, IntWritable, IntWrit
 
         if(line.length == 4) {
             // Calculate the length of the tweet
-            feature.set(line[2].length());
+            feature.set(line[2].length()/5);
 
             // Output the length of the tweet as the key and 1 as the value
             context.write(feature,value);
