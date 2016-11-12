@@ -1,0 +1,88 @@
+United States	United States	US	American	Americans	Yankees	Yanks
+Virgin Islands	US Virgin Island	US Virgin Islanders
+Great Britain	British	UK	Britons	British
+China	Chinese Taipei	Chinese
+China	Republic of	Taiwanese
+Russia	Russian	Russians
+Germany	German	Germans
+Japan	Japanese	Japanese
+France	French	French	Frenchmen	Frenchwomen
+South Korea	South Korean
+Italy	Italian	Italians
+Australia	Australian	Australians	Aussies
+Netherlands	Dutch	Netherlandic	Dutch	Dutchmen	Dutchwomen	Netherlanders
+Hungary	Hungarian	Magyar	Hungarians	Magyars
+Brazil	Brazilian	Brazilians
+Spain	Spanish	Spaniards
+Kenya	Kenyan	Kenyans
+Jamaica	Jamaican	Jamaicans
+Croatia	Croatian	Croatians	Croats
+Cuba	Cuban	Cubans
+New Zealand	New Zealand	NZ	New Zealanders	Kiwis
+Canada	Canadian	Canadians	Canucks
+Uzbekistan	Uzbekistani	Uzbek	Uzbekistanis	Uzbeks
+Kazakhstan	Kazakhstani	Kazakh	Kazakhstanis	Kazakhs
+Colombia	Colombian	Colombians
+Switzerland	Swiss	Swiss
+Iran	Iranian	Persian	Iranians	Persians
+Greece	Greek	Hellenic	Greeks	Hellenes
+Argentina	Argentine	Argentines
+Denmark	Danish	Danes
+Sweden	Swedish	Swedes
+South Africa	South African	South Africans
+Ukraine	Ukrainian	Ukrainians
+Serbia	Serbian	Serbs	Serbians
+Poland	Polish	Poles
+North Korea	North Korean	Koreans
+Belgium	Belgian	Belgians
+Thailand	Thai	Thai
+Slovakia	Slovak	Slovaks
+Georgia	Georgian	Georgians
+Azerbaijan	Azerbaijani	Azerbaijanis
+Belarus	Belarusian	Belarusians
+Turkey	Turkish	Turks
+Armenia	Armenian	Armenians
+Czech Republic	Czech	Czechs
+Ethiopia	Ethiopian	Ethiopians Habesha
+Slovenia	Slovenian	Slovene	Slovenes	Slovenians
+Indonesia	Indonesian	Indonesians
+Romania	Romanian	Romanians
+Bahrain	Bahraini	Bahrainis
+Vietnam	Vietnamese	Vietnamese
+China	Chinese Taipei	Chinese
+Bahamas	Bahamian	Bahamians
+Ivory Coast	Ivorian	Ivorians
+Fiji	Fijian	Fijians
+Jordan	Jordanian	Jordanians
+Kosovo	Kosovar	Kosovan	Kosovars
+Puerto Rico	Puerto Rican	Puerto Ricans	Boricuas
+Singapore	Singapore	Singaporean	Singaporeans
+Tajikistan	Tajikistani	Tajikistanis	Tajiks
+Malaysia	Malaysian	Malaysians
+Mexico	Mexican	Mexicans
+Algeria	Algerian	Algerians
+Ireland	Irish	Irish	Irishmen	Irishwomen
+Lithuania	Lithuanian	Lithuanians
+Bulgaria	Bulgarian	Bulgarians
+Venezuela	Venezuelan	Venezuelans
+India	Indian	Indians
+Mongolia	Mongolian	Mongolians	Mongols
+Burundi	Burundian	Burundians	Barundi
+Grenada	Grenadian	Grenadians
+Niger	Nigerien	Nigeriens
+Philippines	Filipino	Philippine	Filipinos	Filipinas	Pinoys
+Qatar	Qatari	Qataris
+Norway	Norwegian	Norwegians
+Egypt	Egyptian	Egyptians
+Tunisia	Tunisian	Tunisians
+Israel	Israeli	Israelis
+Austria	Austrian	Austrians
+Dominican Republic	Dominican	Dominicans	Quisqueyanos
+Estonia	Estonian	Estonians
+Finland	Finnish	Finns
+Morocco	Moroccan	Moroccans
+Moldova	Moldovan	Moldovans
+Nigeria	Nigerian	Nigerians
+Portugal	Portuguese	Portuguese
+Trinidad and Tobago	Trinidadian	Tobagonian	Trinidadians	Tobagonians	Trinis	Trinbagonians
+United Arab Emirates	Emirati	Emirian	Emiri	Emiratis	Emirians	Emiri
