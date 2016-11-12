@@ -1,4 +1,4 @@
-<project name="TweetLengthCount" default="dist" basedir=".">
+<project name="TweetFreqDay" default="dist" basedir=".">
 	<description>
         Sample MapReduce project build file
     </description>
@@ -38,7 +38,7 @@
 		<mkdir dir="${dist}" />
 
 		<!-- Put everything in ${build} into a jar file -->
-		<jar jarfile="${dist}/TweetLength.jar" basedir="${build}" />
+		<jar jarfile="${dist}/TweetFreqDay.jar" basedir="${build}" />
 	</target>
 
 	<target name="clean" description="clean up">
