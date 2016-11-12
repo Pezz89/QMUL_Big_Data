@@ -1,0 +1,4 @@
+hadoop-moonshot jar dist/TweetLength.jar TweetLength /data/olympictweets2016rio out
+hadoop-moonshot jar dist/TweetFreqDay.jar TweetFreqDay /data/olympictweets2016rio out
+hadoop-moonshot jar dist/TweetHashtag.jar TweetHashtag /data/olympictweets2016rio out
+hadoop-moonshot fs 
