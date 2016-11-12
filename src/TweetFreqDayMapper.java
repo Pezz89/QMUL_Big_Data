@@ -46,6 +46,8 @@ public class TweetFreqDayMapper extends Mapper<Object, Text, Text, LongWritable>
                 out = Denonyms.findDenonym(tweet);
             }
         }
+        System.out.println(out);
+        System.out.println(tweet);
         return out;
     }
 
