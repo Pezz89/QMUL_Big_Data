@@ -11,7 +11,7 @@ def main():
             output_line = ""
             for deno_line in deno_list:
 
-                if team.rstrip() in deno_line.split('\t'):
+                if team.rstrip().capitalize() in deno_line.capitalize().split('\t'):
                     output_line = deno_line
                     output.write(output_line)
             if output_line == "":
